@@ -1,0 +1,11 @@
+C:\Users\Eren\source\repos\HafızaOyunu\bin\Debug\HafızaOyunu.exe.config
+C:\Users\Eren\source\repos\HafızaOyunu\bin\Debug\HafızaOyunu.exe
+C:\Users\Eren\source\repos\HafızaOyunu\bin\Debug\HafızaOyunu.pdb
+C:\Users\Eren\source\repos\HafızaOyunu\obj\Debug\HafızaOyunu.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\HafızaOyunu\obj\Debug\HafızaOyunu.Form1.resources
+C:\Users\Eren\source\repos\HafızaOyunu\obj\Debug\HafızaOyunu.Properties.Resources.resources
+C:\Users\Eren\source\repos\HafızaOyunu\obj\Debug\HafızaOyunu.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\HafızaOyunu\obj\Debug\HafızaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\HafızaOyunu\obj\Debug\HafızaOyunu.exe
+C:\Users\Eren\source\repos\HafızaOyunu\obj\Debug\HafızaOyunu.pdb
+C:\Users\Eren\source\repos\HafızaOyunu\obj\Debug\HafızaOyunu.AnaSayfa.resources
